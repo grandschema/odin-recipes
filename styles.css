@@ -39,3 +39,8 @@ img {
 p {
     font-size: 20px;
 }
+
+main > ul > li {
+    list-style: disc;
+    margin-bottom: 10px;
+}

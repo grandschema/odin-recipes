@@ -44,3 +44,7 @@ main > ul > li {
     list-style: disc;
     margin-bottom: 10px;
 }
+
+main > ol > li {
+    margin-bottom: 15px;
+}
